@@ -19,7 +19,7 @@ books = [
     {'title': 'Python Programming', 'shelf': 'A1'},
     {'title': 'Data Structures and Algorithms', 'shelf': 'B2'},
     {'title': 'Introduction to Machine Learning', 'shelf': 'C3'},
-    {'title': 'Database Management Systems', 'shelf': 'D4'}
+    {'title': 'Sequential and Binary Search', 'shelf': 'D4'}
 ]
 
 book_title = input("Masukkan judul buku yang ingin dicari: ")
